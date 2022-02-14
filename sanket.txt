@@ -1,0 +1,7 @@
+echo "hello electrical ">
+sanket.txt
+q
+wq
+:wq
+:q
+:WQ
